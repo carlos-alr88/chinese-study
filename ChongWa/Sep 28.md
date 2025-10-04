@@ -64,4 +64,3 @@ Vocabulary
 想給 
 听音乐 = listening to music
 上課 = during class
-下課 = after class
