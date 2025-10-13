@@ -1,3 +1,5 @@
+Lesson 3 Dialog:
+
 A 利亞， 這家餐廳的紅燒魚做得很好，非常好吃
 B 我最喜歡吃魚，什麼魚都愛吃
 A 麗莎， 你想吃豆腐還是青菜？
@@ -47,3 +49,7 @@ List of Taboo things:
 - 娃娃 = (wa wa) doll = it can be coursed
 - 梨 （li = pear） similar in sound to 離開 （leave）
 - Give gifts in groups of 4 四 (Similar sound to 死 = dead)
+
+Homework
+1. Create phrases with this structure S + 喜歡 .. + 因為... (5 sentences)
+2. Page 33 text book
